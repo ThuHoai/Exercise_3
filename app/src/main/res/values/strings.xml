@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercise_3</string>
+
+    <string name="btn_set_color">Set Color</string>
+    <string name="btn_cancel">Cancel</string>
+
+</resources>
